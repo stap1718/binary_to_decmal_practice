@@ -1,3 +1,55 @@
 # binary_to_decmal_practice
 Open a new file and convert the decimal numbers to binary and convert the binary numbers to decimal
 save your work, commit and push, complete a pull request to submit your work.
+---------------------------------------------------------------------------------------------------
+Problems:
+Convert: 1010₂
+Convert: 15₁₀
+Convert: 1101₂
+Convert: 8₁₀
+Convert: 111₁₀
+Convert: 10110₂
+Convert: 20₁₀
+Convert: 10001₂
+Convert: 6₁₀
+Convert: 11011₂
+Convert: 33₁₀
+Convert: 100100₂
+Convert: 25₁₀
+Convert: 10101₂
+Convert: 50₁₀
+Convert: 111111₂
+Convert: 75₁₀
+Convert: 110011₂
+Convert: 9₁₀
+Convert: 10011₂
+Convert: 17₁₀
+Convert: 11100₂
+Convert: 30₁₀
+Convert: 101010₂
+Convert: 42₁₀
+Convert: 101001₂
+Convert: 55₁₀
+Convert: 110111₂
+Convert: 68₁₀
+Convert: 1000100₂
+Convert: 77₁₀
+Convert: 1001101₂
+Convert: 88₁₀
+Convert: 1011000₂
+Convert: 99₁₀
+Convert: 1100011₂
+Convert: 21₁₀
+Convert: 10101₂
+Convert: 45₁₀
+Convert: 101101₂
+Convert: 37₁₀
+Convert: 100101₂
+Convert: 72₁₀
+Convert: 1001000₂
+Convert: 13₁₀
+Convert: 1101₂
+Convert: 28₁₀
+Convert: 11100₂
+Convert: 56₁₀
+Convert: 111000₂
